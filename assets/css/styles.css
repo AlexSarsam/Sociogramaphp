@@ -1,0 +1,116 @@
+
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f6f8fa;
+  margin: 0;
+  padding: 0;
+}
+
+
+  .container {
+  width: 80%;
+  max-width: 700px;
+  margin: 40px auto;
+  background: white;
+  padding: 20px 30px;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+/* ===== TÍTULOS ===== */
+h1 {
+  text-align: center;
+  color: #333;
+}
+
+
+fieldset {
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  margin-bottom: 20px;
+  padding: 15px;
+}
+
+legend {
+  font-weight: bold;
+  color: #444;
+}
+
+label {
+  display: block;
+  margin-top: 10px;
+  font-weight: 500;
+}
+
+input,
+select,
+textarea,
+button {
+  width: 100%;
+  margin-top: 5px;
+  padding: 8px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  font-size: 14px;
+  box-sizing: border-box;
+}
+
+textarea {
+  resize: vertical;
+  min-height: 80px;
+}
+
+button {
+  background-color: #0078d7;
+  color: white;
+  border: none;
+  cursor: pointer;
+  margin-top: 15px;
+  padding: 10px;
+  font-size: 15px;
+  border-radius: 6px;
+  transition: background-color 0.3s ease;
+}
+
+button:hover {
+  background-color: #005fa3;
+}
+
+footer {
+  background-color: #f4f4f4;
+  border-top: 2px solid #ddd;
+  padding: 15px 0;
+  margin-top: 40px;
+  text-align: center;
+}
+
+footer p {
+  margin: 5px 0;
+  font-size: 14px;
+  color: #333;
+}
+
+footer p:last-child {
+  font-size: 13px;
+  color: #666;
+}
+
+footer strong {
+  color: #0078d7;
+}
+
+
+@media (max-width: 600px) {
+  .container {
+    width: 90%;
+    padding: 15px;
+  }
+
+  button {
+    font-size: 14px;
+  }
+
+  footer p {
+    font-size: 13px;
+  }
+}

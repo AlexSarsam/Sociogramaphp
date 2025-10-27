@@ -1,0 +1,68 @@
+[
+    {
+        "nombre": "sss",
+        "edad": "18",
+        "correo": "alex.mrbogart@gmail.com",
+        "grupo": "DAW1",
+        "genero": "masculino",
+        "positivo": "sdsd",
+        "negativo": "dsdsdsdsds",
+        "motivo": "sdsds",
+        "amigos": [
+            "pocos"
+        ],
+        "intereses": "sdsdsds",
+        "rol": "frontend",
+        "experiencia": "1",
+        "lenguaje_favorito": "PHP",
+        "comunicacion": "sincrona",
+        "herramientas": [
+            "GitHub",
+            "Slack",
+            "Trello"
+        ],
+        "hora_inicio": "19:23",
+        "hora_fin": "20:23",
+        "gestion_tiempo": "alta",
+        "estres_proyecto": "2",
+        "preferencia_espacio": "silencio",
+        "dispositivo": "portatil",
+        "SistemaOperativo": "macOS",
+        "color_equipo": "#29297f",
+        "comentarios": "1121312",
+        "fecha_respuesta": "2025-10-08"
+    },
+    {
+        "nombre": "sDCAFSDFA",
+        "edad": "3",
+        "correo": "alex.mrbogart@gmail.com",
+        "grupo": "DAW1",
+        "genero": "masculino",
+        "positivo": "sdsd",
+        "negativo": "dsdsdsdsds",
+        "motivo": "SDSD",
+        "amigos": [
+            "pocos"
+        ],
+        "intereses": "DSSDS",
+        "rol": "backend",
+        "experiencia": "1",
+        "lenguaje_favorito": "PHP",
+        "comunicacion": "sincrona",
+        "herramientas": [
+            "GitHub",
+            "Discord",
+            "Slack"
+        ],
+        "hora_inicio": "20:32",
+        "hora_fin": "22:32",
+        "gestion_tiempo": "baja",
+        "estres_proyecto": "4",
+        "preferencia_espacio": "silencio",
+        "dispositivo": "portatil",
+        "SistemaOperativo": "Windows",
+        "color_equipo": "#060614",
+        "comentarios": "DSDSD",
+        "fecha_respuesta": "2025-10-08"
+    }
+]
